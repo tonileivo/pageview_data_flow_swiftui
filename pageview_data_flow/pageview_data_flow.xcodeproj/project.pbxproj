@@ -20,6 +20,7 @@
 		E2BA8F0226D380ED00AB3040 /* ScoresViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BA8F0126D380ED00AB3040 /* ScoresViewModel.swift */; };
 		E2BA8F0426D3811900AB3040 /* Score.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BA8F0326D3811900AB3040 /* Score.swift */; };
 		E2BA8F0626D3848600AB3040 /* ScorePlayerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BA8F0526D3848600AB3040 /* ScorePlayerCell.swift */; };
+		E2DCB24526EB31CD00CF0D79 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DCB24426EB31CD00CF0D79 /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		E2BA8F0126D380ED00AB3040 /* ScoresViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoresViewModel.swift; sourceTree = "<group>"; };
 		E2BA8F0326D3811900AB3040 /* Score.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Score.swift; sourceTree = "<group>"; };
 		E2BA8F0526D3848600AB3040 /* ScorePlayerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScorePlayerCell.swift; sourceTree = "<group>"; };
+		E2DCB24426EB31CD00CF0D79 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				E2BA8EF626D3787E00AB3040 /* Course.swift */,
 				E2BA8EFB26D378CE00AB3040 /* Player.swift */,
 				E2BA8F0326D3811900AB3040 /* Score.swift */,
+				E2DCB24426EB31CD00CF0D79 /* Game.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				E2BA8F0426D3811900AB3040 /* Score.swift in Sources */,
 				E2BA8EFC26D378CE00AB3040 /* Player.swift in Sources */,
 				E2BA8F0026D3804300AB3040 /* ScoresView.swift in Sources */,
+				E2DCB24526EB31CD00CF0D79 /* Game.swift in Sources */,
 				E2BA8F0226D380ED00AB3040 /* ScoresViewModel.swift in Sources */,
 				E2BA8F0626D3848600AB3040 /* ScorePlayerCell.swift in Sources */,
 				E2BA8EF326D3779D00AB3040 /* PlayTabView.swift in Sources */,
